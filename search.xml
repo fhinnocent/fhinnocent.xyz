@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/fhinnocent/2024/03/22/hello-world/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>demo</title>
     <url>/fhinnocent/2024/03/22/demo-1/</url>
     <content><![CDATA[]]></content>
@@ -8,11 +13,6 @@
   <entry>
     <title>Hello World</title>
     <url>/fhinnocent/2024/03/22/demo/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/fhinnocent/2024/03/22/hello-world/</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
